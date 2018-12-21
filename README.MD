@@ -7,7 +7,7 @@
 * Webpack 4
 * Babel 7
 * styled-components 4
-...
+* ...
 
 ## Note
-> With this, you may have d ability to get the shit done in a `week`.
+> With this, you may have d ability to get d shit done in a week.
